@@ -4,3 +4,5 @@ This is a one-page application that uses Next.js and TailwindCSS. You can search
 - https://openweathermap.org/api
 - I also used JokeAPI, a free API-keyless REST API that gives you jokes based on given parameters, to display jokes.
 - https://v2.jokeapi.dev/
+
+To run the app, run ```npm install``` or ```yarn install``` depending on which one you're using, and then run the app with "yarn dev" or "npm run dev"
